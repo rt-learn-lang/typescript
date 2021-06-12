@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es5", 
+        "outDir": "dist",
+
+        // To also search for funtions from js files apart from .ts files.
+        "allowJs": true,
+        "checkJs": true,
+
+        // To allow type checking to know about the external libraries
+        "lib": ["ES2015.Promise", "WebWorker", "DOM"]
+    }
+}
