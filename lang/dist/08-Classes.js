@@ -51,4 +51,4 @@ var Class1 = /** @class */ (function () {
 }());
 // 1.c Getting hold of the singleton instance
 var instance1 = Class1.instance;
-instance1._categories; // not allowed because it is private.
+// instance1._categories; // not allowed because it is private.

@@ -29,3 +29,4 @@ originalCost6 = 1;
 // 6.b. Can assign value from union to a non-union as long as they have the same value type.
 // let originalCost6b: string = originalCost6;
 let originalCost6c: number = originalCost6;
+console.log("Hello")
