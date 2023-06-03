@@ -12,3 +12,4 @@ enum InventoryType3 {
     Computer = "computer",
     Furniture = "furniture"
 }
+
